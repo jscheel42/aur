@@ -1,9 +1,12 @@
 [submodule "google-chrome"]
 	path = google-chrome
 	url = https://aur.archlinux.org/google-chrome.git
+	branch = master
 [submodule "spotify-stable"]
 	path = spotify-stable
 	url = https://aur.archlinux.org/spotify-stable.git
+	branch = master
 [submodule "google-cloud-sdk"]
 	path = google-cloud-sdk
 	url = https://aur.archlinux.org/google-cloud-sdk.git
+	branch = master
