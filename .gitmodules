@@ -14,3 +14,7 @@
 	path = slack-desktop
 	url = https://aur.archlinux.org/slack-desktop.git
 	branch = master
+[submodule "kubectl-bin"]
+	path = kubectl-bin
+	url = https://aur.archlinux.org/kubectl-bin.git
+	branch = master
