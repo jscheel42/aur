@@ -9,7 +9,9 @@ git pull
 # Spotify
 gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
 
+
 # Update each package folder
+cd $SCRIPT_DIR
 for d in */; do
     $SCRIPT_DIR/update.sh $d
 done
