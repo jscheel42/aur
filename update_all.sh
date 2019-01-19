@@ -3,7 +3,8 @@
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 # Git pull this repo & any submodules w/ aur config
-git submodule update --recursive --remote
+git submodule update --recursive
+# git submodule update --recursive --remote
 
 # Update each package folder
 for d in */; do
