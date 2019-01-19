@@ -9,5 +9,6 @@ Update all packages:
 * ./update_all.sh
 
 Add a new AUR package:
-* ./add.sh PACKAGE_NAME
+* ./add.sh PACKAGE_NAME [BRANCH]
+    * BRANCH defaults to 'master'
 * ./add.sh google-chrome
