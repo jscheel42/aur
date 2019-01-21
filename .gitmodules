@@ -18,3 +18,7 @@
 	path = kubectl-bin
 	url = https://aur.archlinux.org/kubectl-bin.git
 	branch = master
+[submodule "tor-browser"]
+	path = tor-browser
+	url = https://aur.archlinux.org/tor-browser.git
+	branch = master
