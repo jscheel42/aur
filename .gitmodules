@@ -1,24 +1,4 @@
-[submodule "google-chrome"]
-	path = google-chrome
-	url = https://aur.archlinux.org/google-chrome.git
-	branch = master
-[submodule "spotify-stable"]
-	path = spotify-stable
-	url = https://aur.archlinux.org/spotify-stable.git
-	branch = master
 [submodule "google-cloud-sdk"]
 	path = google-cloud-sdk
 	url = https://aur.archlinux.org/google-cloud-sdk.git
-	branch = master
-[submodule "slack-desktop"]
-	path = slack-desktop
-	url = https://aur.archlinux.org/slack-desktop.git
-	branch = master
-[submodule "kubectl-bin"]
-	path = kubectl-bin
-	url = https://aur.archlinux.org/kubectl-bin.git
-	branch = master
-[submodule "tor-browser"]
-	path = tor-browser
-	url = https://aur.archlinux.org/tor-browser.git
 	branch = master
